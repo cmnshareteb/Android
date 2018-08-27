@@ -43,6 +43,10 @@ http://www.instructables.com/id/Auotmatic-Street-lights-control-using-LDR-and-Ar
 https://www.arduino.cc/en/Tutorial/KnockSensor
 
 
+TAPI--
+https://developer.android.com/reference/android/telephony/CellSignalStrengthGsm
+
+
 
 
 
